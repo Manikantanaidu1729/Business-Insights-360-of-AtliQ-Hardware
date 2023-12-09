@@ -40,19 +40,19 @@ This project's primary objective is to bring clarity to the data analytics initi
 **Overall Report**
 
 Dashboards Homepage 
-![Home Page BI](https://github.com/Deepshikhagithub/Business-Insights-360-of-AtliQ-Hardware/assets/121179319/de0139f6-4471-4196-9c26-d2b532918d01)
+![Homepage](https://github.com/Manikantanaidu1729/Business-Insights-360-of-AtliQ-Hardware/assets/153293142/58856032-5e28-4a5f-97cc-defa991a1367)
 
 Finance View
-![Finance View](https://github.com/Deepshikhagithub/Business-Insights-360-of-AtliQ-Hardware/assets/121179319/3cb2f56c-2841-42b8-8fd1-d9c07ba6b6ab)
+![Finance View](https://github.com/Manikantanaidu1729/Business-Insights-360-of-AtliQ-Hardware/assets/153293142/af56ea95-e856-4b8f-81e0-7be85785db1c)
 
 Sales View
-![Sales View](https://github.com/Deepshikhagithub/Business-Insights-360-of-AtliQ-Hardware/assets/121179319/b6c927f2-62cb-4161-9d77-bbc6bb18576f)
+![Sales View](https://github.com/Manikantanaidu1729/Business-Insights-360-of-AtliQ-Hardware/assets/153293142/c3484d96-0e6d-46bb-96c6-a5bb53dd26ed)
 
 Marketing View
-![Marketing View](https://github.com/Deepshikhagithub/Business-Insights-360-of-AtliQ-Hardware/assets/121179319/9386ddd5-9761-48a7-8a60-f9adb88b8608)
+![Marketing View](https://github.com/Manikantanaidu1729/Business-Insights-360-of-AtliQ-Hardware/assets/153293142/6249e21a-d9af-419f-9703-dcd9569fa272)
 
 Supply Chain View
-![Supply Chain View](https://github.com/Deepshikhagithub/Business-Insights-360-of-AtliQ-Hardware/assets/121179319/2a5a8716-4252-42bb-8248-225bfa038379)
+![Supply Chain View](https://github.com/Manikantanaidu1729/Business-Insights-360-of-AtliQ-Hardware/assets/153293142/08aa6082-2720-430a-9c0e-64bafcdccddc)
 
 Executive View
-![Executive View](https://github.com/Deepshikhagithub/Business-Insights-360-of-AtliQ-Hardware/assets/121179319/1d5fea84-c8e7-451a-bda3-47bfae14bb1f)
+![Executive View](https://github.com/Manikantanaidu1729/Business-Insights-360-of-AtliQ-Hardware/assets/153293142/ed6d29de-20de-496f-bafa-87ef4b041c4d)
